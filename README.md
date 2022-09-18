@@ -6,3 +6,7 @@ Shoot'em up developed in Java.
 This was my first game developed in 2006. The objective was to learn how a game works inside.
 
 It is here because is part of my history!
+
+Requirements
+-------------------------------
+- Java 2 Standard Edition (J2SE) version 1.4 or later. 
